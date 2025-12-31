@@ -1,3 +1,3 @@
-<h1>Judul Utama (H1) di Bagian Ini</h1>
-<h2>Sub Judul (H2) Ada di Sini </h2>
-<p>Bagian ini berisi teks paragraf yang bisa Anda isi dengan konten tulisan.</p>
+<h1>HALO! (H1) Nama Gua Fajri</h1>
+<h2>day 1 gua buat web (H2) di GITHUB </h2>
+<p>usia gua masih 17 tahun gua lahir tanggal 04-05-08.</p>
