@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Website Fajri</title>
+    <title>Portofolio Keren Fajri</title>
 </head>
 <body style="background-image:url ('IMG-20251130-WA0076.jpg');background-size:cover;">
     <h1>HALO! Nama Gua Fajri</h1>
