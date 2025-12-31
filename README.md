@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+FUFUFAFA
 <html>
   <head>
     <title>fufufafa</title>
