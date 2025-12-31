@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>fufufafa.com</title>
+    <title>fufufafa</title>
   </head>
   <body>
     <p>bayar hutang lu wok!</p>
