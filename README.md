@@ -2,16 +2,29 @@
 <html>
 <head>
     <title>Portofolio Keren Fajri</title>
+    <style>
+        body {
+            background-image: url('IMG-20251130-WA0076.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            margin: 0;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        * {
+            border: none;
+            outline: none;
+        }
+
+        hr {
+            display: none;
+        }
+    </style>
 </head>
-<body style="
-background-image: url('IMG-20251130-WA0076.jpg');
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
-height: 100vh;
-margin: 0;
-color: white;
-">
+<body>
 
     <h1>HALO! Nama Gua Fajri</h1>
     <h2>Ini day 1 gua buat web di GitHub</h2>
@@ -19,4 +32,3 @@ color: white;
 
 </body>
 </html>
-
